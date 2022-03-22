@@ -1,0 +1,21 @@
+{
+  "name": "Text to Handwriting Converter",
+  "short_name": "Text to Handwriting Converter",
+  "icons": [
+    {
+      "src": "img/Website.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/Website.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#09f",
+  "background_color": "#ddd",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "This tool can save your time, in this tool you can write your assignment on laptop and converter it into handwriting"
+}
